@@ -14,8 +14,7 @@ This project is a testing framework that verifies business requirements for the 
 - [Test Cases](#test-cases)
   - [User Registration API](#user-registration-api)
   - [User Login API](#user-login-api)
-- [Bug Reporting](#bug-reporting)
-- [Contributing](#contributing)
+
 
 ---
 
@@ -53,6 +52,8 @@ api-testing/
 │   └── app.test.js         # Test cases for Registration and Login APIs
 ├── package.json            # Project metadata and dependencies
 └── README.md               # Project documentation (this file)
+
+---
 
 ## Installation
 Navigate to the project directory:
